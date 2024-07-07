@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![roadmap.sh](https://roadmap.sh/card/tall/6671aee2a0e51c6f8b5d7844?variant=dark)](https://roadmap.sh)
 <!--
 **typedefuser/typedefuser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
