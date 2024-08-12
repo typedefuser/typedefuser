@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=typedefuser)](https://github.com/typedefuser/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=typedefuser&layout=donut-vertical)](https://github.com/typedefuser/github-readme-stats)
+[Porfoliolink](https://typedefuser.netlify.app/)
 <!--
 **typedefuser/typedefuser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
